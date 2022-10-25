@@ -1,7 +1,7 @@
 ### Olá, eu sou Vinicius Ribeiro👋
 
 - 👨🏻‍🎓 Estudante de Engenharia de Software, 4º semestre, na <a href="https://www.uepa.br/">UEPA</a>
-- 🌱 Aprendendo React
+- 🌱 Aprendendo Angular
 - ✉️ Contato: viniciusgoes159@gmail.com
 
 <div align="center">
@@ -12,12 +12,12 @@
 </div>
 
 
-
-<div align="center" valign="top" "><br>
-  <img align="center" alt="icon-HTML"       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="icon-CSS"        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="icon-JS"         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="icon-React"      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <br>
-  <img align="center" alt="icon-SQLServer"  src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<div align="center" valign="top" ><br>
+  <img align="center" alt="icon-HTML"       src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" height="40">
+  <img align="center" alt="icon-CSS"        src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40">
+  <img align="center" alt="icon-JS"         src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40">
+  <img align="center" alt="icon-TS"         src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40">
+  <img align="center" alt="icon-Angular"      src="https://cdn-images-1.medium.com/max/92/1*nbJ41jD1-r2Oe6FsLjKaOg@2x.png"  width="40" height="40">
+  <img align="center" alt="icon-SQLServer"  src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="40" height="40">
 </div>
 
