@@ -1,7 +1,7 @@
 ### Olá, eu sou Vinicius Ribeiro👋
 
 - 👨🏻‍🎓 Estudante de Engenharia de Software, 4º semestre, na <a href="https://www.uepa.br/">UEPA</a>
-- 🌱 Aprendendo Angular
+- 🌱 Aprendendo Java / Spring Boot
 - ✉️ Contato: viniciusgoes159@gmail.com
 
 <div align="center">
