@@ -1,4 +1,7 @@
-### Olá, eu sou Vinicius Ribeiro👋
+<h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/Viniciusrbr/">Vinícius Ribeiro 😃️</a>
+  </h1>
 
 - 👨🏻‍🎓 Estudante de Engenharia de Software, 4º semestre, na <a href="https://www.uepa.br/">UEPA</a>
 - 🌱 Aprendendo Java / Spring Boot
