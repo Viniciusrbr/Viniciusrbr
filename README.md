@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Eu sou  Vinícius Ribeiro👋😄
 
 
-- 👨🏻‍🎓 Estudante de Engenharia de Software, 4º semestre, na <a href="https://www.uepa.br/">UEPA</a>
+- 👨🏻‍🎓 Estudante de Engenharia de Software, 5º semestre, na <a href="https://www.uepa.br/">UEPA</a>
 - 🌱 Aprendendo Spring Boot
 - ✉️ Contato: viniciusgoes159@gmail.com
 
