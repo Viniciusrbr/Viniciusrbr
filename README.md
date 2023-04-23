@@ -4,6 +4,7 @@
 
 - 👨🏻‍🎓 Estudante de Engenharia de Software, 5º semestre, na <a href="https://www.uepa.br/">UEPA</a>
 - 🌱 Aprendendo mais sobre React e Node
+- 👨🏻‍💻 Meu site de portifolio (ainda em construção): https://viniciusrbr.github.io/PortifolioPage/
 - ✉️ Contato: viniciusgoes159@gmail.com
 
 <br>
