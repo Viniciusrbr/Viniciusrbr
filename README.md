@@ -29,6 +29,8 @@
   <img align="center" alt="icon-JS"         src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40">
   <img align="center" alt="icon-TS"         src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40">
   <img align="center" alt="icon-React"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50">
+  <img align="center" alt="icon-Redux"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="50" height="50">
+  <img align="center" alt="icon-Next"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="50" height="50">
   <img align="center" alt="icon-Angular"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="50" height="50">
 </div>
 
@@ -37,14 +39,15 @@
   <img align="center" alt="icon-Postgre"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50">
   <img align="center" alt="icon-mySQL"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="50" height="50">
   <img align="center" alt="icon-NodeJS"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50">
-  <img align="center" alt="icon-MongoDB"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
+  <!--<img align="center" alt="icon-MongoDB"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"> -->
 </div>
 
-<h4 align="center">Ferramentas Gerais</h4>
+<h4 align="center">Ferramentas e Outros</h4>
 <div align="center">
   <img align="center" alt="icon-Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
   <img align="center" alt="icon-GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
   <img align="center" alt="icon-VsCode"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">
+  <img align="center" alt="icon-Jira"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" height="50">
 </div>
   
 ##
