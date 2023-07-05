@@ -1,11 +1,11 @@
 <div align="center">
-<h1> Olá, tudo bem? Eu sou  Vinícius Ribeiro👋😄 </h1>
+<h1>Hello There! I'am Vinícius Ribeiro👋😄</h1>
   </div>
 
-- 👨🏻‍🎓 Estudante de Engenharia de Software, 5º semestre, na <a href="https://www.uepa.br/">UEPA</a>
-- 🌱 Aprendendo mais sobre React e Node
-- 👨🏻‍💻 Meu site de portifolio (ainda em construção): https://viniciusrbr.github.io/PortifolioPage/
-- ✉️ Contato: viniciusgoes159@gmail.com
+- 👨🏻‍🎓 Software Engineering Student at <a href="https://www.uepa.br/" target="_blank">UEPA</a>
+- 👨🏻‍💻 Front-End Developer Intern at <a href="https://compass.uol/pt/home/" target="_blank">Compass.UOL</a>
+- 🌱 learning more about React
+- ✉️ Contact: viniciusgoes159@gmail.com
 
 <br>
 
@@ -16,9 +16,9 @@
 </a>
 </div>
 
-##
+<h2 align="center"> <a href="https://viniciusrbr.github.io/PortifolioPage/" target="_blank">My portfolio page</h2>
 
-<h3 align="center">Linguagens e Ferramentas</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <h4 align="center">Front-End</h4>
 <div align="center">
@@ -42,7 +42,7 @@
   <!--<img align="center" alt="icon-MongoDB"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"> -->
 </div>
 
-<h4 align="center">Ferramentas e Outros</h4>
+<h4 align="center">Tools</h4>
 <div align="center">
   <img align="center" alt="icon-Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
   <img align="center" alt="icon-GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
