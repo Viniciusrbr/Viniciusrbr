@@ -3,7 +3,7 @@
   </div>
 
 - 👨🏻‍🎓 Software Engineering Student at <a href="https://www.uepa.br/" target="_blank">UEPA</a>
-- 👨🏻‍💻 Front-End Developer Intern at <a href="https://compass.uol/pt/home/" target="_blank">Compass.UOL</a>
+- 👨🏻‍💻 Front-End Developer
 - 🌱 learning more about React
 - ✉️ Contact: viniciusgoes159@gmail.com
 
