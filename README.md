@@ -21,23 +21,23 @@
 <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
-  <img align="center" alt="icon-HTML"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50">
-  <img align="center" alt="icon-CSS"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
-  <img align="center" alt="icon-SCSS"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50">
-  <img align="center" alt="icon-Bootstrap"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
-  <img align="center" alt="icon-JS"         src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40">
-  <img align="center" alt="icon-TS"         src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40">
-  <img align="center" alt="icon-React"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50">
-  <img align="center" alt="icon-Redux"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="50" height="50">
- <!-- <img align="center" alt="icon-Next"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="50" height="50">-->
-  <img align="center" alt="icon-Angular"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="50" height="50">
+  <img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>
+  <img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>
+  <img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
+  <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
+  <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
+  <img height="48px" width="48px" alt="Icone Redux" src="https://skillicons.dev/icons?i=redux"/>
+  <img height="48px" width="48px" alt="Icone Styled-Componets" src="https://skillicons.dev/icons?i=styledcomponents"/>
 </div>
 
 <div align="center">
-  <img align="center" alt="icon-Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
-  <img align="center" alt="icon-GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50">
-  <img align="center" alt="icon-VsCode"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50">
-  <img align="center" alt="icon-Jira"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" height="50">
+  <img height="48px" width="48px" alt="Icone Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
+  <img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>
+  <img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>
+  <img height="48px" width="48px" alt="Icone VsCode" src="https://skillicons.dev/icons?i=vscode"/>
+  <img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>
+  <img height="48px" width="48px" alt="Icone Supabase" src="https://skillicons.dev/icons?i=supabase"/>
+  <img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>
 </div>
   
 ##
