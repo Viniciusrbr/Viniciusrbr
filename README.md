@@ -1,26 +1,19 @@
 <div align="center">
-<h1>Hello There! I'am Vinícius Ribeiro👋😄</h1>
-  </div>
-
-- 👨🏻‍🎓 Software Engineering Student at <a href="https://www.uepa.br/" target="_blank">UEPA</a>
-- 👨🏻‍💻 Front-End Developer
-- 🌱 learning more about React
-- ✉️ Contact: viniciusgoes159@gmail.com
-
-<br>
-
-<div align="center">
-<a href="https://github.com/duribeiro">
-<img width="40%" height="150vh" src="https://github-readme-stats.vercel.app/api?username=Viniciusrbr&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
-<img width="40%" height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusrbr&theme=react&hide_border=false&&layout=compact"/>
-</a>
+  <h1>Olá! Meu nome é Vinícius Ribeiro👋😄</h1>
 </div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">👨🏻‍🎓 Estudante de Engenharia de Software na <a href="https://www.uepa.br/" target="_blank">UEPA</a></p>
+<p align="left">👨🏻‍💻 Desenvolvedor Front-End</p>
+<p align="left">🌱 aprendendo mais sobre React</p>
+<p align="left">✉️ Contato: viniciusgoes159@gmail.com</p>
 
 <!-- <h2 align="center"> <a href="https://viniciusrbr.github.io/PortifolioPage/" target="_blank">My portfolio page</h2> -->
  
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
-<div align="center">
+<div align="left">
   <img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>
   <img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>
   <img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
@@ -30,7 +23,7 @@
   <img height="48px" width="48px" alt="Icone Styled-Componets" src="https://skillicons.dev/icons?i=styledcomponents"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img height="48px" width="48px" alt="Icone Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
   <img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>
   <img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>
@@ -39,8 +32,46 @@
   <img height="48px" width="48px" alt="Icone Supabase" src="https://skillicons.dev/icons?i=supabase"/>
   <img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>
 </div>
-  
-##
 
-<a href = "mailto:viniciusgoes159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/viniciusrbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Viniciusrbr&theme=react&hide_border=false&include_all_commits=true&show_icons=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusrbr&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Viniciusrbr&theme=react&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-viniciusrbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusrbr/)](https://www.linkedin.com/in/viniciusrbr/)
+[![Gmail Badge](https://img.shields.io/badge/-viniciusgoes159@gmail.com.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusgoes159@gmail.com)](mailto:viniciusgoes159@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Viniciusrbr?label=follow&style=social)](https://github.com/Viniciusrbr)
+
+
+
+
+
+
