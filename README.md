@@ -6,7 +6,7 @@
 
 <p align="left">👨🏻‍🎓 Estudante de Engenharia de Software na <a href="https://www.uepa.br/" target="_blank">UEPA</a></p>
 <p align="left">👨🏻‍💻 Desenvolvedor Front-End</p>
-<p align="left">🌱 aprendendo mais sobre React</p>
+<p align="left">🌱 aprendendo mais sobre Back-End com Node, Express e MongoDB</p>
 <p align="left">✉️ Contato: viniciusgoes159@gmail.com</p>
 
 <!-- <h2 align="center"> <a href="https://viniciusrbr.github.io/PortifolioPage/" target="_blank">My portfolio page</h2> -->
