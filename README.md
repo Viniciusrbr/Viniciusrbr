@@ -13,26 +13,8 @@
  
 <h3 align="left">Linguagens e Ferramentas</h3>
 
-<div align="left">
-  <img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>
-  <img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>
-  <img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
-  <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=typescript"/>
-  <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
-  <img height="48px" width="48px" alt="Icone Redux" src="https://skillicons.dev/icons?i=redux"/>
-  <img height="48px" width="48px" alt="Icone Styled-Componets" src="https://skillicons.dev/icons?i=styledcomponents"/>
-</div>
-
-<div align="left">
-  <img height="48px" width="48px" alt="Icone Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
-  <img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>
-  <img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>
-  <img height="48px" width="48px" alt="Icone VsCode" src="https://skillicons.dev/icons?i=vscode"/>
-  <img height="48px" width="48px" alt="Icone Vite" src="https://skillicons.dev/icons?i=vite"/>
-  <img height="48px" width="48px" alt="Icone Supabase" src="https://skillicons.dev/icons?i=supabase"/>
-  <img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>
-</div>
-
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,next,tailwind,styledcomponents,git,github,vscode,vite,supabase,firebase,mysql&perline=8)](https://skillicons.dev)
 
 ### ⚙️ GitHub Analytics
 
