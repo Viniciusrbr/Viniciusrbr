@@ -2,7 +2,7 @@
   <h1>Olá! Meu nome é Vinícius Ribeiro👋😄</h1>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
 
 <p align="left">👨🏻‍🎓 Estudante de Engenharia de Software na <a href="https://www.uepa.br/" target="_blank">UEPA</a></p>
 <p align="left">👨🏻‍💻 Desenvolvedor Front-End</p>
