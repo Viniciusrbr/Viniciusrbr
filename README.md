@@ -4,10 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
 
-<p align="left">👨🏻‍🎓 Estudante de Engenharia de Software na <a href="https://www.uepa.br/" target="_blank">UEPA</a></p>
-<p align="left">👨🏻‍💻 Desenvolvedor Front-End</p>
-<p align="left">🌱 aprendendo mais sobre Next.JS</p>
-<p align="left">✉️ Contato: viniciusgoes159@gmail.com</p>
+<p align="left">👨🏻‍🎓 Estudante de <strong>Engenharia de Software</strong>  na <a href="https://www.uepa.br/" target="_blank">UEPA</a> </p>
+<p align="left">👨🏻‍💻 Atualmente trabalhando como <strong>Desenvolvedor Front-End</strong> na <a href="https://www.govone.digital/" target="_blank">GovOne</a> </p>
+<p align="left">🌱 Aprendendo mais sobre <strong>Node JS</strong> na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> </p>
+<p align="left">✉️ Contato: <a href="mailto:viniciusgoes159@gmail.com">viniciusgoes159@gmail.com</a> </p>
 
 <!-- <h2 align="center"> <a href="https://viniciusrbr.github.io/PortifolioPage/" target="_blank">My portfolio page</h2> -->
  
