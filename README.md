@@ -14,7 +14,7 @@
 <h3 align="left">Linguagens e Ferramentas</h3>
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,next,tailwind,styledcomponents,git,github,vscode,vite,supabase,firebase,mysql&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,next,tailwind,styledcomponents,nodejs,vitest,prisma,supabase,firebase,mysql,sqlite,git,github,gitlab&perline=8)](https://skillicons.dev)
 
 ### ⚙️ GitHub Analytics
 
