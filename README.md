@@ -6,7 +6,6 @@
 
 <p align="left">👨🏻‍🎓 Estudante de <strong>Engenharia de Software</strong>  na <a href="https://www.uepa.br/" target="_blank">UEPA</a> </p>
 <p align="left">👨🏻‍💻 Atualmente estagiando como <strong>Desenvolvedor Front-End</strong> na <a href="https://www.govone.digital/" target="_blank">GovOne</a> </p>
-<p align="left">🌱 Aprofundando meus conhecimentos na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> </p>
 <p align="left">✉️ Contato: <a href="mailto:viniciusgoes159@gmail.com">viniciusgoes159@gmail.com</a> </p>
 
 <!-- <h2 align="center"> <a href="https://viniciusrbr.github.io/PortifolioPage/" target="_blank">My portfolio page</h2> -->
