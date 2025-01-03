@@ -10,15 +10,13 @@
 
 <!-- <h2 align="center"> <a href="https://viniciusrbr.github.io/PortifolioPage/" target="_blank">My portfolio page</h2> -->
 
-<h3 align="left">🚀 Habilidades Principais</h3>
-<p align="left">Fazem parte do meu dia a dia como desenvolvedor, ou já utilizei  em outras experiências profissionais e projetos pessoais. </p>
+<h3 align="left">🚀 Minha Stack Principal:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,next,tailwind,styledcomponents,figma,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,react,next,typescript,tailwind,figma,git,github,gitlab)](https://skillicons.dev)
 
-<h3 align="left">🌐 Conhecimentos Adicionais</h3>
-<p align="left">Tive contato básico com algumas tecnologias de Back-End para entender o funcionamento e integração entre as camadas da aplicação. </p>
+<h3 align="left">🌐 Também possuo experiência com:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vitest,prisma,supabase,firebase,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,styledcomponents,nodejs,vitest,prisma,supabase,firebase,mysql,sqlite)](https://skillicons.dev)
 
 ### ⚙️ GitHub Analytics
 
