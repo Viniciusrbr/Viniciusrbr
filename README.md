@@ -6,6 +6,7 @@
 
 <p align="left">👨🏻‍🎓 Formado em <strong>Engenharia de Software</strong>  na <a href="https://www.uepa.br/" target="_blank">UEPA</a> </p>
 <p align="left">👨🏻‍💻 Atualmente trabalhando como <strong>Desenvolvedor Front-End Jr</strong> na <a href="https://www.govone.digital/" target="_blank">GovOne</a> </p>
+<p align="left">📚 Aprendendo mais sobre Autenticação e autorização: Tokens JWT, ACL e RBAC. E também SOLID e Clean Architecture em API's Node.js  </p>
 <p align="left">✉️ Contato: <a href="mailto:viniciusgoes159@gmail.com">viniciusgoes159@gmail.com</a> </p>
 
 <!-- <h2 align="center"> <a href="https://viniciusrbr.github.io/PortifolioPage/" target="_blank">My portfolio page</h2> -->
