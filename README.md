@@ -18,7 +18,7 @@
 
 ---
 
-### 🌐 Explorando...
+### 🔎 Explorando novas tecnologias
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nest,prisma,vitest,mysql,postgres,docker" />
 </a>
