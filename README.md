@@ -1,7 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4FC3F7&height=200&section=header&text=Vinicius%20Ribeiro&fontSize=70&fontColor=4FC3F7&fontAlignY=38&desc=Desenvolvedor%20Front-End%20•%20Engenheiro%20de%20Software&descAlignY=58&descSize=20&descColor=a0c4ff&animation=fadeIn" />
 
 <h3 align="center">
-  Desenvolvedor Front-End | React • Next.js • TypeScript
+  Desenvolvedor Front-End | React • Next.js • TypeScript 
+</h3>
+<h3 align="center">
   Experiência em performance, testes automatizados e arquitetura de aplicações web.
 </h3>
 
