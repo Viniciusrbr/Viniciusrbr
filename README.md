@@ -43,11 +43,11 @@ Atualmente focado em construir aplicações front-end confiáveis e escaláveis 
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
 
 ### Testes & Qualidade
-<img src="https://skillicons.dev/icons?i=jest" />
+<img src="https://skillicons.dev/icons?i=jest,vitest" />
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
 
 ### Ferramentas & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,figma,vscode" />
 
 </div>
 
